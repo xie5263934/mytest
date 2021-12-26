@@ -26,4 +26,8 @@ public class App
     private double random(){
         return Math.random();
     }
+
+    private int sbu(int a, int b){
+        return a-b;
+    }
 }
