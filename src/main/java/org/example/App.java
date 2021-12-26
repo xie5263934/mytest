@@ -18,4 +18,8 @@ public class App
     private int muliti(int a, int b){
         return a*b;
     }
+
+    private void hello(String name){
+        System.out.println("hello:"+name);
+    }
 }
