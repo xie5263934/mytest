@@ -14,4 +14,8 @@ public class App
     private int add(int a, int b){
         return a+b;
     }
+
+    private int muliti(int a, int b){
+        return a*b;
+    }
 }
