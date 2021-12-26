@@ -30,4 +30,8 @@ public class App
     private int sbu(int a, int b){
         return a-b;
     }
+
+    private boolean handle(int a, int b){
+        return a==b;
+    }
 }
