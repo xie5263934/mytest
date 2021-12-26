@@ -22,4 +22,8 @@ public class App
     private void hello(String name){
         System.out.println("hello:"+name);
     }
+
+    private double random(){
+        return Math.random();
+    }
 }
